@@ -158,7 +158,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Benedict Kipkoech - [Github](https://github.com/Pontuagi)
-Antony Wagwana - [Githu](https://github.com/ )
+
+Antony Wagwana - [Github](https://github.com/jeshi2)
 
 
 Second part of Airbnb: Joann Vuong
